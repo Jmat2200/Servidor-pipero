@@ -197,3 +197,13 @@
 [18:03:35] [Server thread/INFO]: [Not Secure] <Leytter> VENGO AHORA
 [18:03:36] [Server thread/INFO]: Leytter lost connection: Disconnected
 [18:03:36] [Server thread/INFO]: Leytter left the game
+[18:28:09] [Server thread/INFO]: Villager cmk['Librarian'/122186, l='ServerLevel[world]', x=2560.50, y=64.67, z=688.60] died, message: 'Librarian was slain by Zombie'
+[18:30:08] [Server thread/INFO]: Villager cmk['Librarian'/101034, l='ServerLevel[world]', x=2560.50, y=64.72, z=688.66] died, message: 'Librarian was slain by Zombie'
+[18:30:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2414, y=55, z=677} jd{x=2413, y=56, z=677}
+[18:32:33] [Server thread/INFO]: Villager cmk['Librarian'/101036, l='ServerLevel[world]', x=2560.50, y=64.72, z=688.66] died, message: 'Librarian was slain by Zombie'
+[18:33:09] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[18:33:09] [Server thread/INFO]: Jmat_2 left the game
+[18:33:16] [Server thread/INFO]: Jmat_2[/127.31.58.135:40247] logged in with entity id 143916 at (2559.300000011921, 64.875, 691.9769404176993)
+[18:33:16] [Server thread/INFO]: Jmat_2 joined the game
+[18:34:24] [Server thread/INFO]: Villager cmk['Villager'/143981, l='ServerLevel[world]', x=2560.50, y=64.12, z=688.06] died, message: 'Villager was slain by Zombie'
+[18:36:25] [Server thread/INFO]: Villager cmk['Librarian'/144035, l='ServerLevel[world]', x=2560.50, y=64.72, z=688.66] died, message: 'Librarian was slain by Zombie'
