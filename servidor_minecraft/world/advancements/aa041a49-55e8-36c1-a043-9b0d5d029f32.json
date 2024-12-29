@@ -4554,5 +4554,11 @@
     },
     "done": false
   },
-  "DataVersion": 3839
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2024-12-29 15:27:38 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
 }

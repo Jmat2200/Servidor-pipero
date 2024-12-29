@@ -1,50 +1,61 @@
-[13:48:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:48:25] [ServerMain/INFO]: Loaded 1290 recipes
-[13:48:25] [ServerMain/INFO]: Loaded 1399 advancements
-[13:48:27] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[13:48:27] [Server thread/INFO]: Loading properties
-[13:48:27] [Server thread/INFO]: Default game type: SURVIVAL
-[13:48:27] [Server thread/INFO]: Generating keypair
-[13:48:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:48:27] [Server thread/INFO]: Using epoll channel type
-[13:48:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:48:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:48:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:48:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:48:28] [Server thread/INFO]: Preparing level "world"
-[13:48:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:48:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:48:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:48:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:48:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:48:38] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[13:48:38] [Server thread/INFO]: Time elapsed: 2215 ms
-[13:48:38] [Server thread/INFO]: Done (9.894s)! For help, type "help"
-[14:16:32] [Server thread/INFO]: nael_binbolo[/127.171.65.9:54979] logged in with entity id 4 at (2470.4565923004543, 64.0, 659.8216670888904)
-[14:16:32] [Server thread/INFO]: nael_binbolo joined the game
-[14:16:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[14:16:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
-[14:23:15] [Server thread/INFO]: Maycol_27x[/127.137.81.102:41973] logged in with entity id 3159 at (2492.619213219713, 69.0, 686.6999999880791)
-[14:23:15] [Server thread/INFO]: Maycol_27x joined the game
-[14:23:45] [Server thread/INFO]: Maycol_27x lost connection: Timed out
-[14:23:45] [Server thread/INFO]: Maycol_27x left the game
-[14:23:45] [Server thread/WARN]: handleDisconnection() called twice
-[14:24:46] [Server thread/INFO]: Maycol_27x[/127.137.81.102:59249] logged in with entity id 4355 at (2492.619213219713, 69.0, 686.6999999880791)
-[14:24:46] [Server thread/INFO]: Maycol_27x joined the game
-[14:27:37] [Server thread/INFO]: [Not Secure] <Maycol_27x> donde esta ?
-[14:27:48] [Server thread/INFO]: [Not Secure] <nael_binbolo> haciendo una casa
-[14:28:01] [Server thread/INFO]: [Not Secure] <nael_binbolo> estoy por los arboles rosado
-[14:28:32] [Server thread/WARN]: Maycol_27x moved too quickly! -10.956335490837773,5.208511659813567,-13.495347285762705
-[14:29:02] [Server thread/WARN]: Maycol_27x moved too quickly! 2.5831272685354634,0.41999998688697815,9.860397870506631
-[14:31:58] [Server thread/INFO]: [Not Secure] <nael_binbolo> ahora va mejor el servido
-[14:34:35] [Server thread/WARN]: Maycol_27x moved too quickly! -10.048816836278093,0.0,0.0
-[14:35:07] [Server thread/INFO]: [Not Secure] <Maycol_27x> yo voy a mas de 100 fps
-[14:35:19] [Server thread/INFO]: nael_binbolo lost connection: Timed out
-[14:35:19] [Server thread/INFO]: nael_binbolo left the game
-[14:38:47] [Server thread/INFO]: nael_binbolo[/127.171.65.9:37071] logged in with entity id 13146 at (2451.300000011921, 79.0, 687.0201529710727)
-[14:38:47] [Server thread/INFO]: nael_binbolo joined the game
-[14:39:53] [Server thread/WARN]: Maycol_27x moved too quickly! -10.179591785601133,11.027363999569161,10.755982295784747
-[14:44:56] [Server thread/WARN]: Maycol_27x moved too quickly! 17.779883964860346,-3.258441362979184,-1.2732954031736199
-[14:47:02] [Server thread/WARN]: Maycol_27x moved too quickly! 11.75770838727476,1.176154292812555,-13.75837315315971
-[14:47:05] [Server thread/WARN]: Maycol_27x moved too quickly! 11.079959571385643,6.89158905226563,-12.765982701371968
-[14:47:07] [Server thread/WARN]: Maycol_27x moved too quickly! 9.942267995398197,10.869149512933774,-11.454609839181671
+[15:18:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:18:28] [ServerMain/INFO]: Loaded 1290 recipes
+[15:18:29] [ServerMain/INFO]: Loaded 1399 advancements
+[15:18:30] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[15:18:30] [Server thread/INFO]: Loading properties
+[15:18:30] [Server thread/INFO]: Default game type: SURVIVAL
+[15:18:30] [Server thread/INFO]: Generating keypair
+[15:18:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:18:30] [Server thread/INFO]: Using epoll channel type
+[15:18:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:18:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:18:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:18:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:18:30] [Server thread/INFO]: Preparing level "world"
+[15:18:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:18:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:45] [Worker-Main-1/INFO]: Preparing spawn area: 40%
+[15:18:45] [Worker-Main-1/INFO]: Preparing spawn area: 40%
+[15:18:46] [Server thread/INFO]: Time elapsed: 1860 ms
+[15:18:46] [Server thread/INFO]: Done (15.483s)! For help, type "help"
+[15:19:00] [Server thread/INFO]: Jmat_2[/127.31.58.135:53413] logged in with entity id 4 at (2463.0608219614155, 63.5, 660.3000000119209)
+[15:19:00] [Server thread/INFO]: Jmat_2 joined the game
+[15:19:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
+[15:19:27] [Server thread/WARN]: Jmat_2 moved wrongly!
+[15:19:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17061ms or 341 ticks behind
+[15:22:55] [Server thread/INFO]: Maycol_27x[/127.137.81.102:44413] logged in with entity id 4180 at (2316.4104101107587, 184.0, 802.305116528238)
+[15:22:55] [Server thread/INFO]: Maycol_27x joined the game
+[15:23:19] [Server thread/INFO]: nael_binbolo[/127.171.65.9:37919] logged in with entity id 4724 at (2517.9572659811283, 64.0, 670.2251298498613)
+[15:23:19] [Server thread/INFO]: nael_binbolo joined the game
+[15:23:49] [Server thread/INFO]: nael_binbolo lost connection: Timed out
+[15:23:49] [Server thread/INFO]: nael_binbolo left the game
+[15:23:49] [Server thread/WARN]: handleDisconnection() called twice
+[15:24:29] [Server thread/INFO]: nael_binbolo[/127.171.65.9:41611] logged in with entity id 5818 at (2517.9572659811283, 64.0, 670.2251298498613)
+[15:24:29] [Server thread/INFO]: nael_binbolo joined the game
+[15:24:49] [Server thread/WARN]: Maycol_27x moved too quickly! 0.007953709800858633,-15.991086643450188,-6.830536499405412
+[15:24:56] [Server thread/WARN]: Maycol_27x moved too quickly! -13.501549712449105,-9.045724010867502,6.326848517710005
+[15:25:01] [Server thread/WARN]: Maycol_27x moved too quickly! -6.361907859388793,-9.9481726204437,13.332487671034755
+[15:25:14] [Server thread/WARN]: Maycol_27x moved too quickly! -6.384675112724381,-0.9980953547296068,-16.741541159587655
+[15:27:30] [Server thread/WARN]: Maycol_27x moved too quickly! 11.402187652932753,3.1021387367937265,-13.772594935072334
+[15:27:38] [Server thread/INFO]: Jmat_2 has made the advancement [Total Beelocation]
+[15:27:39] [Server thread/WARN]: Maycol_27x moved too quickly! 11.411109884673806,3.89923504820149,-13.561634974506092
+[15:29:11] [Server thread/INFO]: [Not Secure] <Jmat_2> a
+[15:29:59] [Server thread/INFO]: Leytter[/127.194.163.136:53955] logged in with entity id 10839 at (2503.456545628746, 64.0, 664.0528601264318)
+[15:29:59] [Server thread/INFO]: Leytter joined the game
+[15:30:22] [Server thread/INFO]: [Not Secure] <Leytter> tengo el cielo personalizado activado XD
+[15:30:30] [Server thread/INFO]: nael_binbolo lost connection: Timed out
+[15:30:30] [Server thread/INFO]: nael_binbolo left the game
+[15:31:09] [Server thread/INFO]: [Not Secure] <Leytter> tu ere negro
+[15:31:13] [Server thread/INFO]: [Not Secure] <Leytter> tu skin
+[15:31:39] [Server thread/INFO]: [Not Secure] <Leytter> cuantos tienes
+[15:31:40] [Server thread/INFO]: [Not Secure] <Leytter> ten
+[15:32:21] [Server thread/INFO]: [Not Secure] <Leytter> yo
+[15:32:42] [Server thread/INFO]: [Not Secure] <Leytter> se reviltieron los papeles
+[15:32:59] [Server thread/INFO]: [Not Secure] <Leytter> MIS ESCLAVOS
+[15:36:11] [Server thread/INFO]: nael_binbolo[/127.171.65.9:60557] logged in with entity id 16083 at (2486.300710318581, 66.92159999847412, 684.7082903097489)
+[15:36:11] [Server thread/INFO]: nael_binbolo joined the game
+[15:36:41] [Server thread/INFO]: nael_binbolo lost connection: Timed out
+[15:36:41] [Server thread/INFO]: nael_binbolo left the game
+[15:36:41] [Server thread/WARN]: handleDisconnection() called twice
+[15:37:49] [Server thread/INFO]: [Not Secure] <Leytter> YA ES suficiente no?¿
