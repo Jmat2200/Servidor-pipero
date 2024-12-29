@@ -218,3 +218,48 @@
 [19:01:59] [Server thread/INFO]: Villager cmk['Librarian'/144041, l='ServerLevel[world]', x=2560.50, y=64.80, z=688.74] died, message: 'Librarian was slain by Zombie'
 [19:02:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2415, y=56, z=687} jd{x=2415, y=56, z=686}
 [19:08:03] [Server thread/INFO]: [Not Secure] <Leytter> sisis
+[19:19:57] [Server thread/INFO]: Villager cmk['Villager'/172611, l='ServerLevel[world]', x=2560.50, y=64.90, z=688.84] died, message: 'Villager was slain by Zombie'
+[19:19:58] [Server thread/INFO]: Villager cmk['Villager'/170818, l='ServerLevel[world]', x=2560.50, y=64.11, z=688.05] died, message: 'Villager was slain by Zombie'
+[19:25:33] [Server thread/INFO]: Leytter fell from a high place
+[19:25:38] [Server thread/INFO]: [Not Secure] <Leytter> XD
+[19:25:44] [Server thread/INFO]: [Not Secure] <Leytter> recoje lo mio
+[19:25:48] [Server thread/INFO]: [Not Secure] <Leytter> ta en la mina
+[19:26:01] [Server thread/INFO]: [Not Secure] <Leytter> LOS TOMTEMS QUE PASO
+[19:26:22] [Server thread/INFO]: [Not Secure] <Leytter> oyo de la casa
+[19:26:28] [Server thread/INFO]: [Not Secure] <Leytter> 00
+[19:26:29] [Server thread/INFO]: [Not Secure] <Leytter> xd
+[19:26:32] [Server thread/INFO]: Leytter was slain by Zombie
+[19:26:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-36, y=63, z=57}
+[19:26:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-36, y=64, z=57}
+[19:26:50] [Server thread/INFO]: [Not Secure] <Leytter> yo dormi ;C
+[19:26:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-35, y=65, z=57}
+[19:26:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-35, y=65, z=58}
+[19:26:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-35, y=65, z=57}
+[19:26:57] [Server thread/INFO]: [Not Secure] <Leytter> lag
+[19:27:02] [Server thread/INFO]: [Not Secure] <Leytter> no me deja romper
+[19:27:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-36, y=64, z=57}
+[19:27:11] [Server thread/INFO]: [Not Secure] <Leytter> no deja romper
+[19:27:46] [Server thread/INFO]: Leytter was slain by Zombie Villager
+[19:27:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-47, y=65, z=55}
+[19:27:56] [Server thread/INFO]: [Not Secure] <Leytter> estoy en
+[19:28:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-48, y=65, z=48}
+[19:28:07] [Server thread/INFO]: [Not Secure] <Leytter> a
+[19:28:24] [Server thread/INFO]: [Not Secure] <Leytter> VEN A BUSCARME
+[19:28:42] [Server thread/INFO]: [Not Secure] <Leytter> TT
+[19:29:13] [Server thread/INFO]: [Not Secure] <Leytter> traeme elitras
+[19:29:38] [Server thread/INFO]: Leytter fell from a high place
+[19:30:01] [Server thread/WARN]: Jmat_2 moved too quickly! -18.50579004819224,-2.027432290694975,-1.2564323307107088
+[19:31:01] [Server thread/INFO]: [Not Secure] <Leytter> me pasate
+[19:31:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-33, y=66, z=66}
+[19:31:11] [Server thread/INFO]: [Not Secure] <Leytter> vuelve
+[19:31:50] [Server thread/INFO]: [Not Secure] <Leytter> NO ME DEJA
+[19:31:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-34, y=63, z=64}
+[19:31:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-34, y=63, z=64}
+[19:31:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-34, y=63, z=64}
+[19:32:36] [Server thread/INFO]: [Not Secure] <Leytter> ME FALTAN TOTEMS ;c
+[19:32:51] [Server thread/INFO]: [Not Secure] <Leytter> CORDS
+[19:33:03] [Server thread/INFO]: [Not Secure] <Jmat_2> 2500 500
+[19:33:12] [Server thread/WARN]: Trying to set block entity dql@5be47ccb at position jd{x=692, y=36, z=-315}, but state Block{minecraft:chest}[facing=north,type=single,waterlogged=false] does not allow it
+[19:33:30] [Server thread/WARN]: Jmat_2 moved wrongly!
+[19:35:23] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[19:35:23] [Server thread/INFO]: Jmat_2 left the game
