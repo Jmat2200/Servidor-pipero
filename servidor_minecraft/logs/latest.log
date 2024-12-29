@@ -79,3 +79,36 @@
 [16:05:24] [Server thread/INFO]: Leytter[/127.194.163.136:39161] logged in with entity id 29036 at (2610.741459260212, 71.0, 767.1672894522636)
 [16:05:24] [Server thread/INFO]: Leytter joined the game
 [16:08:03] [Server thread/INFO]: [Not Secure] <Leytter> ?
+[16:08:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2605, y=64, z=794} jd{x=2605, y=65, z=793}
+[16:08:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2605, y=64, z=794} jd{x=2605, y=65, z=793}
+[16:08:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2605, y=64, z=794} jd{x=2605, y=65, z=793}
+[16:09:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2642, y=64, z=792} jd{x=2642, y=64, z=791}
+[16:09:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2642, y=64, z=792} jd{x=2642, y=64, z=791}
+[16:09:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2642, y=64, z=792} jd{x=2642, y=64, z=791}
+[16:09:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2642, y=64, z=792} jd{x=2642, y=64, z=791}
+[16:09:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2642, y=64, z=792} jd{x=2642, y=64, z=791}
+[16:09:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2642, y=64, z=792} jd{x=2642, y=64, z=791}
+[16:09:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2642, y=64, z=792} jd{x=2642, y=64, z=791}
+[16:09:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2642, y=64, z=792} jd{x=2642, y=64, z=791}
+[16:09:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2642, y=64, z=792} jd{x=2642, y=64, z=791}
+[16:10:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2612, y=66, z=787} jd{x=2612, y=65, z=787}
+[16:10:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2612, y=66, z=787} jd{x=2612, y=65, z=787}
+[16:10:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2612, y=66, z=787} jd{x=2612, y=65, z=787}
+[16:12:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2628, y=64, z=782} jd{x=2627, y=63, z=782}
+[16:12:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2629, y=67, z=782} jd{x=2630, y=63, z=782}
+[16:12:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2645, y=65, z=782} jd{x=2645, y=63, z=782}
+[16:14:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2614, y=67, z=783} jd{x=2581, y=65, z=784}
+[16:14:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2598, y=64, z=781} jd{x=2610, y=68, z=777}
+[16:14:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2598, y=64, z=781} jd{x=2610, y=68, z=777}
+[16:14:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2598, y=64, z=781} jd{x=2610, y=68, z=777}
+[16:15:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2636, y=67, z=781} jd{x=2634, y=63, z=781}
+[16:15:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2636, y=67, z=781} jd{x=2634, y=63, z=781}
+[16:16:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2562, y=63, z=780} jd{x=2567, y=62, z=780}
+[16:17:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2555, y=64, z=780} jd{x=2581, y=63, z=780}
+[16:17:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2598, y=63, z=782} jd{x=2599, y=65, z=781}
+[16:17:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2588, y=63, z=782} jd{x=2583, y=66, z=781}
+[16:17:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2588, y=63, z=782} jd{x=2582, y=66, z=781}
+[16:17:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2593, y=66, z=781} jd{x=2594, y=63, z=781}
+[16:18:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2629, y=66, z=780} jd{x=2629, y=64, z=780}
+[16:18:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2629, y=66, z=780} jd{x=2629, y=64, z=780}
+[16:18:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2643, y=66, z=780} jd{x=2641, y=63, z=780}
