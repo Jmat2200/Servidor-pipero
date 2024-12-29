@@ -184,3 +184,16 @@
 [17:47:46] [Server thread/INFO]: [Not Secure] <Leytter> venw
 [17:47:55] [Server thread/INFO]: [Not Secure] <Leytter> iii
 [17:48:33] [Server thread/INFO]: [Not Secure] <Leytter> no tengo
+[17:50:24] [Server thread/INFO]: Villager cmk['Villager'/112559, l='ServerLevel[world]', x=2560.50, y=64.30, z=688.24] died, message: 'Villager was slain by Zombie'
+[17:50:27] [Server thread/INFO]: Villager cmk['Cartographer'/101027, l='ServerLevel[world]', x=2560.50, y=65.06, z=689.22] died, message: 'Cartographer was slain by Zombie'
+[17:50:59] [Server thread/INFO]: Villager cmk['Cartographer'/101028, l='ServerLevel[world]', x=2560.50, y=64.73, z=688.66] died, message: 'Cartographer was slain by Zombie'
+[17:53:53] [Server thread/INFO]: Villager cmk['Cartographer'/101030, l='ServerLevel[world]', x=2560.50, y=64.72, z=688.66] died, message: 'Cartographer was slain by Zombie'
+[17:54:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2559, y=64, z=692} jd{x=2415, y=56, z=671}
+[17:54:49] [Server thread/INFO]: [Not Secure] <Leytter> si
+[17:56:13] [Server thread/INFO]: [Not Secure] <Leytter> qe se yo
+[17:56:19] [Server thread/INFO]: [Not Secure] <Leytter> si
+[17:58:19] [Server thread/INFO]: [Not Secure] <Leytter> mamachola
+[18:00:17] [Server thread/INFO]: [Not Secure] <Leytter> ok
+[18:03:35] [Server thread/INFO]: [Not Secure] <Leytter> VENGO AHORA
+[18:03:36] [Server thread/INFO]: Leytter lost connection: Disconnected
+[18:03:36] [Server thread/INFO]: Leytter left the game
