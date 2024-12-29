@@ -28,6 +28,7 @@
       "minecraft:snowy_beach": "2024-11-10 19:20:49 +0000",
       "minecraft:bamboo_jungle": "2024-11-09 14:39:44 +0000",
       "minecraft:windswept_savanna": "2024-11-09 04:28:54 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-29 17:21:54 +0000",
       "minecraft:flower_forest": "2024-11-09 04:21:43 +0000",
       "minecraft:beach": "2024-11-09 03:52:46 +0000",
       "minecraft:dark_forest": "2024-11-09 14:37:18 +0000",
@@ -41,6 +42,7 @@
       "minecraft:grove": "2024-11-09 04:36:07 +0000",
       "minecraft:swamp": "2024-12-26 15:49:04 +0000",
       "minecraft:meadow": "2024-11-23 18:39:06 +0000",
+      "minecraft:savanna": "2024-12-29 17:22:38 +0000",
       "minecraft:plains": "2024-11-09 03:40:27 +0000"
     },
     "done": false
@@ -3283,6 +3285,96 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-29 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-29 17:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 17:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-29 17:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-29 17:20:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-29 17:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-29 17:20:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-29 17:42:43 +0000"
     },
     "done": true
   },
