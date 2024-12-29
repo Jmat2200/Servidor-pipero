@@ -65,3 +65,17 @@
 [15:43:44] [Server thread/INFO]: Leytter left the game
 [15:44:36] [Server thread/INFO]: Leytter[/127.194.163.136:37415] logged in with entity id 21757 at (2588.8071931371223, 63.0, 685.5166832296621)
 [15:44:36] [Server thread/INFO]: Leytter joined the game
+[15:58:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2604, y=72, z=765} jd{x=2602, y=71, z=763}
+[15:59:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2617, y=66, z=792} jd{x=2613, y=65, z=791}
+[16:00:30] [Server thread/INFO]: Villager cmk['Fletcher'/139, l='ServerLevel[world]', x=2560.50, y=64.87, z=688.80] died, message: 'Fletcher was slain by Zombie'
+[16:00:33] [Server thread/INFO]: Villager cmk['Fletcher'/138, l='ServerLevel[world]', x=2560.50, y=64.08, z=688.01] died, message: 'Fletcher was slain by Zombie'
+[16:01:12] [Server thread/INFO]: Leytter lost connection: Disconnected
+[16:01:12] [Server thread/INFO]: Leytter left the game
+[16:01:43] [Server thread/INFO]: Made Jmat_2 a server operator
+[16:01:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16:01:53] [Server thread/INFO]: [Jmat_2: The difficulty has been set to Hard]
+[16:03:15] [Server thread/INFO]: Villager cmk['Fletcher'/140, l='ServerLevel[world]', x=2560.50, y=64.09, z=688.03] died, message: 'Fletcher was slain by Zombie'
+[16:04:01] [Server thread/INFO]: Villager cmk['Fletcher'/73, l='ServerLevel[world]', x=2560.50, y=64.16, z=688.10] died, message: 'Fletcher was slain by Zombie'
+[16:05:24] [Server thread/INFO]: Leytter[/127.194.163.136:39161] logged in with entity id 29036 at (2610.741459260212, 71.0, 767.1672894522636)
+[16:05:24] [Server thread/INFO]: Leytter joined the game
+[16:08:03] [Server thread/INFO]: [Not Secure] <Leytter> ?
