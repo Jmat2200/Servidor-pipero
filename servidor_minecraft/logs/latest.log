@@ -20,3 +20,7 @@
 [13:48:38] [Worker-Main-1/INFO]: Preparing spawn area: 18%
 [13:48:38] [Server thread/INFO]: Time elapsed: 2215 ms
 [13:48:38] [Server thread/INFO]: Done (9.894s)! For help, type "help"
+[14:16:32] [Server thread/INFO]: nael_binbolo[/127.171.65.9:54979] logged in with entity id 4 at (2470.4565923004543, 64.0, 659.8216670888904)
+[14:16:32] [Server thread/INFO]: nael_binbolo joined the game
+[14:16:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[14:16:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
