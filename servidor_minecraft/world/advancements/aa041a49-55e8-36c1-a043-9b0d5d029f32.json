@@ -369,9 +369,11 @@
       "minecraft:blaze": "2024-11-16 17:48:48 +0000",
       "minecraft:pillager": "2024-11-26 02:59:49 +0000",
       "minecraft:skeleton": "2024-11-09 03:33:36 +0000",
+      "minecraft:elder_guardian": "2024-12-30 18:14:46 +0000",
       "minecraft:ravager": "2024-12-24 22:07:36 +0000",
       "minecraft:ghast": "2024-12-24 19:39:15 +0000",
       "minecraft:hoglin": "2024-11-30 22:30:24 +0000",
+      "minecraft:guardian": "2024-12-30 18:15:20 +0000",
       "minecraft:vindicator": "2024-12-24 22:00:59 +0000",
       "minecraft:magma_cube": "2024-11-16 17:40:03 +0000",
       "minecraft:spider": "2024-11-09 04:00:58 +0000",
@@ -4702,6 +4704,48 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2024-12-29 19:16:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-30 18:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2024-12-30 18:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2024-12-30 18:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2024-12-30 18:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-30 18:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2024-12-30 18:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2024-12-30 18:14:25 +0000"
     },
     "done": true
   },
