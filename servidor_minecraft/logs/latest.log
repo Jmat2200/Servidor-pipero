@@ -268,3 +268,16 @@
 [20:00:41] [Server thread/INFO]: nael_binbolo joined the game
 [20:00:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=529, y=23, z=96} jd{x=529, y=22, z=99}
 [20:00:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=537, y=22, z=99} jd{x=536, y=21, z=99}
+[20:02:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2758ms or 55 ticks behind
+[20:04:27] [Server thread/INFO]: nael_binbolo lost connection: Timed out
+[20:04:27] [Server thread/INFO]: nael_binbolo left the game
+[20:04:38] [Server thread/INFO]: [Not Secure] <OROCHIMARU> k
+[20:07:07] [Server thread/INFO]: [Not Secure] <Leytter> jose traeme lamparas por favor
+[20:07:16] [Server thread/INFO]: [Not Secure] <Leytter> en mi casa
+[20:08:05] [Server thread/INFO]: [Not Secure] <Leytter> gracia
+[20:08:17] [Server thread/INFO]: OROCHIMARU lost connection: Disconnected
+[20:08:17] [Server thread/INFO]: OROCHIMARU left the game
+[20:09:06] [Server thread/INFO]: [Not Secure] <Leytter> XD
+[20:09:15] [Server thread/INFO]: Villager cmk['Villager'/123671, l='ServerLevel[world]', x=2510.30, y=22.00, z=697.70] died, message: 'Villager was squished too much'
+[20:10:26] [Server thread/INFO]: nael_binbolo[/127.171.65.9:49803] logged in with entity id 172560 at (2525.6545804881894, 64.0, 761.2652971468428)
+[20:10:26] [Server thread/INFO]: nael_binbolo joined the game
