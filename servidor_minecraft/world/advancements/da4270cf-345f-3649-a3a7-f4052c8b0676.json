@@ -3709,6 +3709,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-12-30 22:20:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-30 20:35:51 +0000"
@@ -3754,6 +3760,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-30 20:35:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2024-12-30 22:20:20 +0000"
     },
     "done": true
   },

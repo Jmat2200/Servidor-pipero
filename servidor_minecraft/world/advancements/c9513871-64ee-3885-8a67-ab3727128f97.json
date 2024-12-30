@@ -2339,15 +2339,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-30 21:40:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2024-12-30 21:43:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
-      "has_netherrack": "2024-12-30 21:40:03 +0000"
+      "has_copper_ore": "2024-12-30 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-30 22:08:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:28:42 +0000"
     },
     "done": true
   },

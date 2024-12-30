@@ -4852,6 +4852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-30 22:03:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-30 20:10:35 +0000"
@@ -4945,6 +4951,18 @@
   "minecraft:recipes/building_blocks/dye_orange_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-30 19:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-30 22:03:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-30 22:03:52 +0000"
     },
     "done": true
   },
