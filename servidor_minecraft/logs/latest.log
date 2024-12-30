@@ -493,3 +493,18 @@
 [22:44:09] [Server thread/INFO]: [Not Secure] <Leytter> como lo de la leche
 [22:49:34] [Server thread/INFO]: [Not Secure] <Leytter> cierra las trampillas se viene raid
 [22:54:29] [Server thread/INFO]: Villager cmk['Villager'/243062, l='ServerLevel[world]', x=2510.30, y=22.00, z=697.70] died, message: 'Villager was squished too much'
+[22:59:24] [Server thread/INFO]: Villager cmk['Villager'/277479, l='ServerLevel[world]', x=2510.30, y=22.00, z=697.70] died, message: 'Villager was squished too much'
+[22:59:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2603, y=64, z=776} jd{x=2603, y=66, z=776}
+[22:59:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2603, y=66, z=776} jd{x=2603, y=66, z=775}
+[22:59:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2603, y=66, z=776} jd{x=2603, y=66, z=775}
+[22:59:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2603, y=66, z=776} jd{x=2603, y=66, z=775}
+[23:02:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2613, y=71, z=760} jd{x=2614, y=72, z=756}
+[23:09:14] [Server thread/INFO]: [Not Secure] <Leytter> y esta marmara
+[23:15:17] [Server thread/INFO]: Villager cmk['Villager'/257555, l='ServerLevel[world]', x=2510.30, y=22.00, z=697.70] died, message: 'Villager was squished too much'
+[23:15:34] [Server thread/INFO]: Villager cmk['Villager'/256962, l='ServerLevel[world]', x=2510.30, y=22.00, z=697.70] died, message: 'Villager was squished too much'
+[23:17:05] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
+[23:17:05] [Server thread/INFO]: nael_binbolo left the game
+[23:22:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2315, y=185, z=800} jd{x=2317, y=185, z=801}
+[23:23:51] [Server thread/INFO]: [Not Secure] <Jmat_2> afk
+[23:25:53] [Server thread/INFO]: Leytter lost connection: Disconnected
+[23:25:53] [Server thread/INFO]: Leytter left the game
