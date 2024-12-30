@@ -238,3 +238,12 @@
 [19:40:28] [Server thread/INFO]: Villager cmk['Villager'/123663, l='ServerLevel[world]', x=2560.50, y=64.67, z=688.60] died, message: 'Villager was slain by Zombie'
 [19:40:35] [Server thread/INFO]: [Not Secure] <Leytter> EEE
 [19:40:43] [Server thread/INFO]: [Not Secure] <Leytter> JULIAN CON CON NO E NEGRA?
+[19:42:46] [Server thread/INFO]: [Not Secure] <Leytter> se revelaron por la granja
+[19:43:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=472, y=13, z=132} jd{x=471, y=12, z=132}
+[19:43:12] [Server thread/INFO]: [Not Secure] <Leytter> RAMDON
+[19:43:52] [Server thread/WARN]: Jmat_2 moved wrongly!
+[19:49:11] [Server thread/INFO]: Villager cmk['Librarian'/123668, l='ServerLevel[world]', x=2560.50, y=64.67, z=688.60] died, message: 'Librarian was slain by Zombie'
+[19:49:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2559, y=64, z=692} jd{x=2407, y=56, z=685}
+[19:49:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2559, y=64, z=692} jd{x=2408, y=56, z=683}
+[19:50:56] [Server thread/INFO]: Leytter lost connection: Timed out
+[19:50:56] [Server thread/INFO]: Leytter left the game
