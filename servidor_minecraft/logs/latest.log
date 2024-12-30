@@ -20,3 +20,16 @@
 [17:04:57] [Server thread/INFO]: Leytter[/127.194.163.136:50121] logged in with entity id 6 at (2487.314728369037, 69.0, 685.403949916607)
 [17:04:57] [Server thread/INFO]: Leytter joined the game
 [17:05:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17:06:09] [Server thread/INFO]: Villager cmk['Villager'/52, l='ServerLevel[world]', x=2510.70, y=22.00, z=697.70] died, message: 'Villager was squished too much'
+[17:08:24] [Server thread/INFO]: Jmat_2[/127.31.58.135:56769] logged in with entity id 3869 at (2517.762499988079, 64.0, 636.780479631091)
+[17:08:24] [Server thread/INFO]: Jmat_2 joined the game
+[17:09:42] [Server thread/INFO]: Villager cmk['Villager'/70, l='ServerLevel[world]', x=2510.70, y=22.00, z=697.70] died, message: 'Villager was squished too much'
+[17:11:15] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[17:11:15] [Server thread/INFO]: Jmat_2 left the game
+[17:11:19] [Server thread/INFO]: Jmat_2[/127.31.58.135:47567] logged in with entity id 7435 at (2552.300000011921, 68.0, 688.6999999880791)
+[17:11:19] [Server thread/INFO]: Jmat_2 joined the game
+[17:13:30] [Server thread/INFO]: Villager cmk['Librarian'/419, l='ServerLevel[world]', x=2560.50, y=64.08, z=688.02] died, message: 'Librarian was slain by Zombie'
+[17:13:39] [Server thread/INFO]: [Jmat_2: The difficulty has been set to Hard]
+[17:15:07] [Server thread/INFO]: Villager cmk['Villager'/4101, l='ServerLevel[world]', x=2560.50, y=64.15, z=688.08] died, message: 'Villager was slain by Zombie'
+[17:15:31] [Server thread/INFO]: [Not Secure] <Leytter> A MI ME LA CHUPAN TO
+[17:15:52] [Server thread/INFO]: [Not Secure] <Leytter> XD
