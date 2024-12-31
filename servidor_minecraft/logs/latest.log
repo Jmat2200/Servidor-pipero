@@ -16,3 +16,8 @@
 [00:13:53] [Server thread/INFO]: [Not Secure] <Leytter> gringolandia
 [00:16:10] [Server thread/INFO]: Leytter lost connection: Disconnected
 [00:16:10] [Server thread/INFO]: Leytter left the game
+[00:19:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2496, y=91, z=343} jd{x=2497, y=91, z=343}
+[00:22:57] [Server thread/INFO]: Jmat_2[/127.31.58.135:54061] logged in with entity id 403889 at (2492.1820238165137, 91.0, 370.2399616133305)
+[00:22:57] [Server thread/INFO]: Jmat_2 joined the game
+[00:23:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2497, y=91, z=367} jd{x=2494, y=91, z=378}
+[00:26:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2479, y=90, z=357} jd{x=2478, y=91, z=365}
