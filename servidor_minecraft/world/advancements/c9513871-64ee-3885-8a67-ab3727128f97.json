@@ -920,6 +920,7 @@
       "minecraft:skeleton": "2024-12-27 04:04:34 +0000",
       "minecraft:phantom": "2024-12-27 16:29:27 +0000",
       "minecraft:enderman": "2024-12-26 17:24:31 +0000",
+      "minecraft:magma_cube": "2024-12-31 01:51:54 +0000",
       "minecraft:spider": "2024-12-27 04:03:34 +0000",
       "minecraft:zombie": "2024-12-26 17:00:39 +0000",
       "minecraft:creeper": "2024-12-27 04:03:36 +0000",
@@ -2426,6 +2427,30 @@
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2024-12-30 23:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-31 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-31 01:52:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-31 01:52:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-31 01:52:11 +0000"
     },
     "done": true
   },
